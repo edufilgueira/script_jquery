@@ -3,6 +3,7 @@
 Простой плагин оповещений, который использует стили сдандартных Bootstrap алертов.
 Для его создания использовался плагин [bootstrap-growl](https://github.com/ifightcrime/bootstrap-growl).
 
+![notification-plugin-bootstrap-4-hullabaloo](https://user-images.githubusercontent.com/37155369/47811275-22f76580-dd24-11e8-8241-2eb12585aa59.jpg)
 ## Зависимости
 
 1. Latest version of jQuery.
